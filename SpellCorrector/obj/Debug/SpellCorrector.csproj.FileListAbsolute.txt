@@ -1,0 +1,9 @@
+C:\Users\Sattar\Downloads\C# Folder\SpellCorrector\SpellCorrector\bin\Debug\SpellCorrector.exe.config
+C:\Users\Sattar\Downloads\C# Folder\SpellCorrector\SpellCorrector\bin\Debug\SpellCorrector.exe
+C:\Users\Sattar\Downloads\C# Folder\SpellCorrector\SpellCorrector\bin\Debug\SpellCorrector.pdb
+C:\Users\Sattar\Downloads\C# Folder\SpellCorrector\SpellCorrector\obj\Debug\SpellCorrector.csprojResolveAssemblyReference.cache
+C:\Users\Sattar\Downloads\C# Folder\SpellCorrector\SpellCorrector\obj\Debug\SpellCorrector.Form1.resources
+C:\Users\Sattar\Downloads\C# Folder\SpellCorrector\SpellCorrector\obj\Debug\SpellCorrector.Properties.Resources.resources
+C:\Users\Sattar\Downloads\C# Folder\SpellCorrector\SpellCorrector\obj\Debug\SpellCorrector.csproj.GenerateResource.Cache
+C:\Users\Sattar\Downloads\C# Folder\SpellCorrector\SpellCorrector\obj\Debug\SpellCorrector.exe
+C:\Users\Sattar\Downloads\C# Folder\SpellCorrector\SpellCorrector\obj\Debug\SpellCorrector.pdb
